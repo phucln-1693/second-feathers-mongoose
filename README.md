@@ -1,6 +1,6 @@
 # second-feathers-mongoose
 
-> second feathers mongoose to practive debugging
+> 
 
 ## About
 
